@@ -15,12 +15,13 @@
 
 <h3 align="left">Languages and Tools:</h3> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zaineli&show_icons=true&locale=en" alt="zaineli" /></p>
+<div width="100vw">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=zaineli&show_icons=true&locale=en" alt="zaineli" />
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaineli&show_icons=true&locale=en&layout=compact" alt="zaineli" /></p>
  -->
-
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=zaineli&" alt="zaineli" /></p>
+&nbsp&nbsp
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaineli&" alt="zaineli" />
+</div>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
