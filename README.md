@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **MERN, MEAN, UI/UX, Deep Learning**
+- 💬 Ask me about **MERN MEAN UI ML**
 
 - 📫 How to reach me **zali.bscs22seecs@seecs.edu.pk**
 
