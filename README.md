@@ -1,50 +1,86 @@
-<h1 align="center">Hi 👋, I'm Zain Ali</h1>
-<h3 align="center">A Passionate Developer from Pakistan</h3>
-<img align="right" alt="Space Striker" width="400" src="https://i.gifer.com/76dA.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaineli&label=Profile%20views&color=0e75b6&style=flat" alt="zaineli" /> </p>
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **MERN. MEAN. UI. UX. ML**
-
-- 📫 How to reach me **zali.bscs22seecs@seecs.edu.pk**
-
-<h3 align="left">Languages and Tools:</h3> 
-
-<div width="100vw">
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=zaineli&show_icons=true&locale=en" alt="zaineli" />
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaineli&show_icons=true&locale=en&layout=compact" alt="zaineli" /></p>
- -->
-&nbsp&nbsp
-<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaineli&" alt="zaineli" />
+<div align="center">
+    <h1 style="display: inline-block">Hi 👋, I'm Zain Ali</h1>
 </div>
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <h2 align="center" style="display: inline-block">Solving problems you didn’t know existed, using code you don’t understand!</h2>
+  </ul>
+</div>
+
+- 🔭 Current Focus: Expanding my expertise in NextJs, ML/DL, Full Stack Technologies
+
+- 🌱 Learning Journey: Actively exploring Computer Vision, Web Scraping and Docker.
+
+- 🤔 Collaboration Opportunities: I am seeking guidance on beginner-friendly open-source projects to kickstart my contributions!
+ 
+- 📫 Check me out on [LinkedIn](https://www.linkedin.com/in/zain-ali-43090a283/)! (https://www.linkedin.com/in/zain-ali-43090a283/) 
+
+![](https://komarev.com/ghpvc/?username=zaineli)
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=zaineli&theme=dark&show_icons=true&count_private=true" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaineli&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zaineli&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zaineli&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=zaineli&theme=radical&row=1&column=5&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,angular,tailwindcss,next,nodejs,git,mongodb,postgres,mysql,figma,photoshop&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,javascript,python,typescript,nodejs,nextjs,react,docker,selenium,prisma,postgres,mongodb,figma&perline=14" />
   </a>
-</p>
-<!-- Connect -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Let's Connect🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/zain-ali-43090a283/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/xein.ali/?utm_source=ig_web_button_share_sheet" target="https://www.instagram.com/xein.ali/?utm_source=ig_web_button_share_sheet"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>  
 </p>
 
 <hr>
 
+<div align="center">
+    <summary><h1 style="display: inline-block">Snake Eating My Contribution Graph!</h1></summary>
+</div>
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
