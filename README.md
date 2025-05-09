@@ -1,4 +1,5 @@
 <div align="center">
+  <br>
   # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Yooo, I'm Zain Ali! ✨ 
 
   ### Full Stack Dev grinding that code life | Anime stan | No cap fr fr
@@ -32,7 +33,7 @@ Living my best dev life while simultaneously being an anime enthusiast is my who
 
 ### Frontend Slay
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,sass,redux,materialui" />
 </div>
 
 </td>
@@ -40,7 +41,7 @@ Living my best dev life while simultaneously being an anime enthusiast is my who
 
 ### Backend Go Brr
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,cpp,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,cpp,java,spring,prisma,graphql,flask,fastapi" />
 </div>
 
 </td>
@@ -48,7 +49,37 @@ Living my best dev life while simultaneously being an anime enthusiast is my who
 
 ### The Whole Toolkit Fr
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=git,docker,mongodb,postgres,selenium,figma" />
+<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,firebase,mongodb,postgres,mysql,redis,selenium,figma" />
+</div>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+### ML/AI Stack
+<div align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<br>
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### DevOps & Testing
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible,jest,webpack,babel" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### Currently Learning
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=flutter,dart,r,rust,threejs,solidity" />
 </div>
 
 </td>
@@ -76,32 +107,6 @@ Living my best dev life while simultaneously being an anime enthusiast is my who
   </tr>
 </table>
 
-## What I'm Cooking Rn 👨‍🍳
-
-Building apps so clean they make Marie Kondo proud. My projects hit different—combining weeb energy with professional execution. I stay winning with that work-hobby balance.
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="84%" src="https://github-profile-trophy.vercel.app/?username=zaineli&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=5&no-bg=false" alt="Achievement Unlocked" />
-  </a>
-</div>
-
-## The Algorithm
-
-```javascript
-// POV: My daily routine be like
-while (!burnout) {
-  grindCode();
-  touchGrass(false);
-  watchAnime('seasonal');
-  if (caffeine.level < 50) {
-    coffee.chug();
-  }
-  sleep(Math.random() * 4 + 2); // 2-6 hours if we're lucky
-}
-```
-
----
 
 <div align="center">
   <i>"Not me acting like I have imposter syndrome while my code is actually kinda serving" 💅</i>
