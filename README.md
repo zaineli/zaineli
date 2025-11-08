@@ -17,11 +17,6 @@
 
 Living that AI engineer grindset where my agents have better work ethic than most junior devs. I'm out here making autonomous systems that don't just complete tasks but they decide which tasks are worth completing. Deadass debugging multi-agent coordination at 7AM while OpenAI charges me rent.
 
-- **Current Obsession:** Making AI agents that can actually *agent* (revolutionary concept, I know)
-- **Power Level:** Building RAG systems that retrieve memories they shouldn't have + multi-agent orchestration that looks like organized chaos
-- **Final Form:** Looking for AI projects that make you question "should we really be building this?" (spoiler: yes)
-- **Villain Arc:** When I'm not teaching machines to think, I'm reading papers about making them think better
-
 <div align="center">
   <a href="https://www.linkedin.com/in/zain-ali-43090a283/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect if you dare" />
@@ -109,14 +104,6 @@ A/B Testing • Observability</b>
 
 </div>
 
-## The Receipts 📊
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaineli&theme=tokyonight" alt="GitHub Streak" />
-  <br>
-  <sub><i>"Consistency isn't my hobby, it's my personality disorder"</i></sub>
-</div>
-
 ## Active Experiments 🧪 <sub>*(Things keeping me awake)*</sub>
 
 <table>
@@ -168,25 +155,3 @@ A/B Testing • Observability</b>
 </div>
 
 ---
-
-<div align="center">
-  
-  ### ⚠️ WARNING ⚠️
-  
-  *Side effects of working with me may include:*
-  
-  **Spontaneous debates about consciousness** • **Unsolicited agent architecture opinions** • **Excessive enthusiasm about embeddings** • **Dad jokes about neural networks** • **3AM messages about breakthrough ideas**
-  
-  <br>
-  
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200">
-  
-  <br>
-  
-  <i>"Not me out here building Skynet while my family thinks I just 'work with computers'" 💀</i>
-  
-
-  
-  
-  
-</div>
